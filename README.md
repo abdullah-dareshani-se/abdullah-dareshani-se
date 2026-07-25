@@ -1,24 +1,31 @@
-# 👋 Hi, I'm Abdullah Dareshani
+<h1 align="center">Hi 👋, I'm Abdullah Dareshani</h1>
+
+<h3 align="center">💻 Web & App Developer | API Specialist | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Software+Engineering+Student;Web+%26+App+Developer;API+%26+Database+Enthusiast;Future+AI+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Web+Developer;App+Developer;API+Integration+Expert;Bug+Fixer;Software+Engineer" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-💻 Software Engineering Student (Sukkur IBA)
-🚀 Focused on **Web & App Development**
-🔗 Working with **APIs & Databases**
-🎯 Passionate about building real-world projects
+- 🔭 Currently working on **Web & App Development**
+- 🌱 Learning **Advanced Software Engineering & DSA**
+- 💬 Ask me about **JavaScript, PHP, APIs, Databases**
+- 🛠 Love solving bugs & optimizing code
+- 📦 Built **2 repositories**
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,cpp,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,php,python,mysql" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -27,36 +34,32 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdullah-dareshani-se&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-dareshani-se&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-dareshani-se&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://github.com/abdullah-dareshani-se">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  <a href="https://www.linkedin.com/in/abdullah-dareshani-a845bb411">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Dareshani-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="https://www.fiverr.com/users/bdullhdreshni">
+    <img src="https://img.shields.io/badge/Fiverr-Abdullah%20Seller-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🎯 Current Focus
+## 🔥 Fun Fact
 
-* 🚀 Improving Data Structures & Algorithms (Java)
-* 🌐 Full Stack Development
-* 🔥 API Development & Integration
-* 🤖 Future Goal: AI & Machine Learning
-
----
-
-## ⚡ Fun Fact
-
-> I don’t just learn code, I build real solutions 💻🔥
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
-</p>
+💡 I turn ideas into real-world applications and love fixing complex bugs!
