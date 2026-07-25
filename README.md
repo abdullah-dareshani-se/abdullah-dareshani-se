@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Abdullah Dareshani</h1>
+<p align="center">
+  <!-- Replace the src URL below with your hosted animated GIF/SVG -->
+  <img src="YOUR_ANIMATED_BANNER_URL_HERE.gif" alt="Abdullah Dareshani Animation Header" width="100%" />
+</p>
 
+<h1 align="center">Hi 👋, I'm Abdullah Dareshani</h1>
 <h3 align="center">💻 Web & App Developer | API Specialist | Problem Solver</h3>
 
 <p align="center">
@@ -9,7 +13,6 @@
 ---
 
 ## 🚀 About Me
-
 - 🔭 Currently working on **Web & App Development**
 - 🌱 Learning **Advanced Software Engineering & DSA**
 - 💬 Ask me about **JavaScript, PHP, APIs, Databases**
@@ -19,11 +22,9 @@
 ---
 
 ## 💻 Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,php,python,mysql" />
 </p>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
@@ -31,15 +32,12 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdullah-dareshani-se&show_icons=true&theme=tokyonight" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-dareshani-se&theme=tokyonight" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-dareshani-se&layout=compact&theme=tokyonight" />
 </p>
@@ -47,7 +45,6 @@
 ---
 
 ## 🌐 Connect with me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullah-dareshani-a845bb411">
     <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Dareshani-blue?style=for-the-badge&logo=linkedin" />
@@ -61,5 +58,4 @@
 ---
 
 ## 🔥 Fun Fact
-
 💡 I turn ideas into real-world applications and love fixing complex bugs!
