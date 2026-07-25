@@ -1,7 +1,9 @@
 <p align="center">
-  <!-- Replace the src URL below with your hosted animated GIF/SVG -->
-  <img src="YOUR_ANIMATED_BANNER_URL_HERE.gif" alt="Abdullah Dareshani Animation Header" width="100%" />
+  <img src="https://raw.githubusercontent.com/abdullah-dareshani-se/abdullah-dareshani-se/refs/heads/main/assets/intro-animation.svg" width="800"/>
 </p>
+
+
+
 
 <h1 align="center">Hi 👋, I'm Abdullah Dareshani</h1>
 <h3 align="center">💻 Web & App Developer | API Specialist | Problem Solver</h3>
