@@ -29,18 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullah-dareshani-se&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-dareshani-se&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-dareshani-se&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🌐 Connect with me
 <p align="center">
@@ -55,5 +43,3 @@
 
 ---
 
-## 🔥 Fun Fact
-💡 I turn ideas into real-world applications and love fixing complex bugs!
