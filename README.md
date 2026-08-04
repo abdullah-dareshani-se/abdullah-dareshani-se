@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdullah-dareshani-se/abdullah-dareshani-se/refs/heads/main/assets/intro-animation.svg" width="800"/>
+  <img src="https://raw.githubusercontent.com/abdullah-dareshani-se/abdullah-dareshani-se/refs/heads/main/assets/intro-animation-photo.svg" width="800"/>
 </p>
 
 <h3 align="center">💻 Web & App Developer | API Specialist | Problem Solver</h3>
